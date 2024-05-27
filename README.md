@@ -4,7 +4,7 @@ I am a mechatronics engineer with experience in the development and testing of p
 
 My goal is to contribute to projects/products that have a positive impact on society like environment🌱, education📚, sustainable mobility🚄 or the health sector🩺.
 
-In my spare time, I enjoy spending time at the skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
+In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
 ## Current Project
 I am currently taking my first steps into artificial intelligence by working on the [ft_linear_regression](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) project, part of the AI specialization path at 42. 🤖🧠
