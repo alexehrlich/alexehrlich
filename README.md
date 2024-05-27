@@ -10,8 +10,7 @@ In my spare time, I enjoy spending time at the skatepark 🛹, where I embrace t
 ## Current Project
 Currently I am taking my first steps in artifical intelligence by doing the first project of the AI specialization path of 42.🤖🧠
 
-## Top Projects🔥
-Here are some of my top projects that I'm proud of:
+## Top Projects 🔥
 
 1. **🚀 ft_transcendence - 42 Core Curriculum**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
@@ -23,33 +22,26 @@ Here are some of my top projects that I'm proud of:
    - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
    - **[GitHub Repository](https://github.com/mdarbois/42_webserv)**
 
-3. **[🧊 MiniRT - 42 Core Corriculum]**
+3. **🧊 MiniRT - 42 Core Corriculum**
    - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
    - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
    - **[GitHub Repository](https://github.com/dubmix/42-miniRT)**
 
-4. **[Project 4 Name]**
-   - **Description:** [A brief description of Project 4]
-   - **Technologies Used:** [Technologies or Languages used in Project 4]
-   - **GitHub Repository:** [Link to Project 4 GitHub Repository]
+4. **📟 Minishell - 42 Core Corriculum**
+   - **Description:** A group project where we created our own shell by re-implementing the BASH behaviour in C.
+   - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
+   - **[GitHub Repository](https://github.com/leonyannick/minishell)**
 
-5. **[Project 5 Name]**
-   - **Description:** [A brief description of Project 5]
-   - **Technologies Used:** [Technologies or Languages used in Project 5]
-   - **GitHub Repository:** [Link to Project 5 GitHub Repository]
-
-6. **[Project 6 Name]**
-   - **Description:** [A brief description of Project 6]
-   - **Technologies Used:** [Technologies or Languages used in Project 6]
-   - **GitHub Repository:** [Link to Project 6 GitHub Repository]
+5. **Needigator - private mobile project**
+   - **Description:** iOS App which calculates the fastest route through a supermarket by solving the travelling salesman problem.
+   - **Keywords:** Swift, simulated annealing algorithm, TSP, CoreData, Networking, iOS
+   - **[GitHub Repository](https://github.com/alexehrlich/Needigator)**
 
 ---
 
 ### Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alexander-ehrlich-a276b8200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3dtr2gvxR1mpvh%2BtFlvV6g%3D%3D))
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
