@@ -1,16 +1,12 @@
-# Hi there, I'm [Your Name] 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+# Hi I am Alex 🙋🏻
 
 ## About Me
-Hi, I'm [Your Name], a passionate [Your Profession or Hobby] from [Your Location]. I love [Your Interests or Hobbies], and I'm always eager to learn new technologies and improve my skills. In my spare time, you can find me [Your Favorite Activities].
+I am a mechatronics engineer with experience in the development and testing of power electronics. Seeking to broaden my expertise, I ventured into software engineering at 42 Berlin. Completing the Core Curriculum was a transformative experience, revealing both the vast knowledge I had gained and the endless horizon of learning still ahead. Embracing this lifelong journey, I am now continuing my studies at 42 Rio in Brazil starting the AI specialization path at 42 Rio de Janeiro, Brazil🇧🇷.
 
-- 🌱 I’m currently learning [Your Current Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 💬 Ask me about [Topics You Are Comfortable Discussing]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+My goal is to contribute to projects/products that have a positive impact on society like environment🌱, education📚, sustainable mobility🚄 or the health sector🩺.
+
+In my spare time, I enjoy spending time at the skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
+
 
 ## Top Projects
 Here are some of my top projects that I'm proud of:
