@@ -32,6 +32,13 @@ Currently I am taking my first steps in artifical intelligence by doing the firs
    - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
 
 ---
+## Tech Stack
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge&logo=algorithms&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alexander-ehrlich-a276b8200/)
