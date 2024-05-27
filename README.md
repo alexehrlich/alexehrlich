@@ -14,7 +14,7 @@ Here are some of my top projects that I'm proud of:
 1. **🚀 ft_transcendence - 42 Core Curriculum**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
    - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification
-   - **GitHub Repository:** [Go to repository](https://github.com/Linuswidmer/42_transcendence)
+   - **[GitHub Repository](https://github.com/Linuswidmer/42_transcendence)**
 
 2. **[Project 2 Name]**
    - **Description:** [A brief description of Project 2]
