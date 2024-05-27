@@ -11,24 +11,23 @@ Currently I am taking my first steps in artifical intelligence by doing the firs
 
 ## Top Projects 🔥
 
-1. **📲 Needigator - private mobile project**(https://github.com/alexehrlich/Needigator)
+1. **[📲 Needigator - private mobile project](https://github.com/alexehrlich/Needigator)**
    - **Description:** iOS App which calculates the fastest route through a supermarket by solving the travelling salesman problem.
    - **Keywords:** Swift, simulated annealing algorithm, TSP, CoreData, Networking, iOS
-   - ****
 
-2. **🚀 ft_transcendence - 42 Core Curriculum**(https://github.com/Linuswidmer/42_transcendence)
+2. **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
    - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification, python, JavaScript, HTML
 
-3. **🌐 Webserv - 42 Core Curriculum**(https://github.com/mdarbois/42_webserv)
+3. **[🌐 Webserv - 42 Core Curriculum](https://github.com/mdarbois/42_webserv)**
    - **Description:** A group project where we implemented a HTTP server to serve static and dynamic content and support file up and download.
    - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
 
-4. **🧊 MiniRT - 42 Core Corriculum**(https://github.com/dubmix/42-miniRT)
+4. **[🧊 MiniRT - 42 Core Corriculum](https://github.com/dubmix/42-miniRT)**
    - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
    - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
 
-5. **📟 Minishell - 42 Core Corriculum**(https://github.com/leonyannick/minishell)
+5. **[📟 Minishell - 42 Core Corriculum](https://github.com/leonyannick/minishell)**
    - **Description:** A group project where we created our own shell by re-implementing the BASH behaviour in C.
    - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
 
