@@ -7,24 +7,26 @@ My goal is to contribute to projects/products that have a positive impact on soc
 
 In my spare time, I enjoy spending time at the skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
+## Current Project
+Currently I am taking my first steps in artifical intelligence by doing the first project of the AI specialization path of 42.🤖🧠
 
 ## Top Projects🔥
 Here are some of my top projects that I'm proud of:
 
 1. **🚀 ft_transcendence - 42 Core Curriculum**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
-   - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification
+   - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification, python, JavaScript, HTML
    - **[GitHub Repository](https://github.com/Linuswidmer/42_transcendence)**
 
-2. **[Project 2 Name]**
-   - **Description:** [A brief description of Project 2]
-   - **Technologies Used:** [Technologies or Languages used in Project 2]
-   - **GitHub Repository:** [Link to Project 2 GitHub Repository]
+2. **🌐 Webserv - 42 Core Curriculum**
+   - **Description:** A group project where we implemented a HTTP server to serve static and dynamic content and support file up and download.
+   - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
+   - **[GitHub Repository](https://github.com/mdarbois/42_webserv)**
 
-3. **[Project 3 Name]**
-   - **Description:** [A brief description of Project 3]
-   - **Technologies Used:** [Technologies or Languages used in Project 3]
-   - **GitHub Repository:** [Link to Project 3 GitHub Repository]
+3. **[🧊 MiniRT - 42 Core Corriculum]**
+   - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
+   - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
+   - **[GitHub Repository](https://github.com/dubmix/42-miniRT)**
 
 4. **[Project 4 Name]**
    - **Description:** [A brief description of Project 4]
