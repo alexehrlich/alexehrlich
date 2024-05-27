@@ -40,5 +40,5 @@ Currently I am taking my first steps in artifical intelligence by doing the firs
 ---
 
 ### Connect with Me
-- [LinkedIn](linkedin.com/in/alexander-ehrlich-a276b8200)
+- [LinkedIn](https://www.linkedin.com/in/alexander-ehrlich-a276b8200/)
 
