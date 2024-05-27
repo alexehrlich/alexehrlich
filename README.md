@@ -11,10 +11,10 @@ Currently I am taking my first steps in artifical intelligence by doing the firs
 
 ## Top Projects 🔥
 
-1. **📲 Needigator - private mobile project**
+1. **📲 Needigator - private mobile project** [👉](https://github.com/alexehrlich/Needigator)
    - **Description:** iOS App which calculates the fastest route through a supermarket by solving the travelling salesman problem.
    - **Keywords:** Swift, simulated annealing algorithm, TSP, CoreData, Networking, iOS
-   - **[GitHub Repository](https://github.com/alexehrlich/Needigator)**
+   - ****
 
 2. **🚀 ft_transcendence - 42 Core Curriculum**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
