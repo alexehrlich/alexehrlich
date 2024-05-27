@@ -1,7 +1,7 @@
 # Hi I am Alex 🙋🏻
 
 ## About Me
-I am a mechatronics engineer with experience in the development and testing of power electronics. Seeking to broaden my expertise, I ventured into software engineering at 42 Berlin. Completing the Core Curriculum was a transformative experience, revealing both the vast knowledge I had gained and the endless horizon of learning still ahead. Embracing this lifelong journey, I am now continuing my studies at 42 Rio in Brazil starting the AI specialization path at 42 Rio de Janeiro, Brazil🇧🇷.
+I am a mechatronics engineer with experience in the development and testing of power electronics. Seeking to broaden my expertise, I ventured into software engineering at [42 Berlin](https://42berlin.de). Completing the Core Curriculum was a transformative experience, revealing both the vast knowledge I had gained and the endless horizon of learning still ahead. Embracing this lifelong journey, I am now continuing my studies at 42 Rio in Brazil starting the AI specialization path at 42 Rio de Janeiro, Brazil🇧🇷.
 
 My goal is to contribute to projects/products that have a positive impact on society like environment🌱, education📚, sustainable mobility🚄 or the health sector🩺.
 
