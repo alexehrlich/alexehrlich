@@ -12,36 +12,33 @@ Currently I am taking my first steps in artifical intelligence by doing the firs
 
 ## Top Projects 🔥
 
-1. **🚀 ft_transcendence - 42 Core Curriculum**
-   - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
-   - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification, python, JavaScript, HTML
-   - **[GitHub Repository](https://github.com/Linuswidmer/42_transcendence)**
-
-2. **🌐 Webserv - 42 Core Curriculum**
-   - **Description:** A group project where we implemented a HTTP server to serve static and dynamic content and support file up and download.
-   - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
-   - **[GitHub Repository](https://github.com/mdarbois/42_webserv)**
-
-3. **🧊 MiniRT - 42 Core Corriculum**
-   - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
-   - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
-   - **[GitHub Repository](https://github.com/dubmix/42-miniRT)**
-
-4. **📟 Minishell - 42 Core Corriculum**
-   - **Description:** A group project where we created our own shell by re-implementing the BASH behaviour in C.
-   - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
-   - **[GitHub Repository](https://github.com/leonyannick/minishell)**
-
-5. **Needigator - private mobile project**
+1. **📲 Needigator - private mobile project**
    - **Description:** iOS App which calculates the fastest route through a supermarket by solving the travelling salesman problem.
    - **Keywords:** Swift, simulated annealing algorithm, TSP, CoreData, Networking, iOS
    - **[GitHub Repository](https://github.com/alexehrlich/Needigator)**
 
+2. **🚀 ft_transcendence - 42 Core Curriculum**
+   - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
+   - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification, python, JavaScript, HTML
+   - **[GitHub Repository](https://github.com/Linuswidmer/42_transcendence)**
+
+3. **🌐 Webserv - 42 Core Curriculum**
+   - **Description:** A group project where we implemented a HTTP server to serve static and dynamic content and support file up and download.
+   - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
+   - **[GitHub Repository](https://github.com/mdarbois/42_webserv)**
+
+4. **🧊 MiniRT - 42 Core Corriculum**
+   - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
+   - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
+   - **[GitHub Repository](https://github.com/dubmix/42-miniRT)**
+
+5. **📟 Minishell - 42 Core Corriculum**
+   - **Description:** A group project where we created our own shell by re-implementing the BASH behaviour in C.
+   - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
+   - **[GitHub Repository](https://github.com/leonyannick/minishell)**
+
 ---
 
 ### Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alexander-ehrlich-a276b8200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3dtr2gvxR1mpvh%2BtFlvV6g%3D%3D))
+- [LinkedIn](linkedin.com/in/alexander-ehrlich-a276b8200)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
