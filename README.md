@@ -7,7 +7,7 @@ My goal is to contribute to projects/products that have a positive impact on soc
 In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
 ## Current Project ⏳
-Coding my first neural network from scratch to classify breast cancer data to be benign or malignant using backpropagation and [linear regression](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) based on a real data set provided by the Univerity of Wisconsin.
+Coding my first neural network from scratch to classify breast cancer data to be benign or malignant using backpropagation and [linear regression](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) based on a real data set provided by the University of Wisconsin.
 
 ## Favorite Projects 🔥
 
