@@ -7,14 +7,13 @@ My goal is to contribute to projects/products that have a positive impact on soc
 In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
 ## Current Project ⏳
-- Coding my first neural network from scratch to classify breast cancer data to be benign or malignant using backpropagation and [linear regression](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) based on a real data set provided by the University of Wisconsin.
-- Learning PyTorch...
+- Classify thoughts using brain wave data with scikit-learn 🧠
 
 ## Favorite Projects 🔥
 
-1. **[📲 Needigator - private mobile project](https://github.com/alexehrlich/Needigator)**
-   - **Description:** iOS App which calculates the fastest route through a supermarket by solving the travelling salesman problem.
-   - **Keywords:** Swift, simulated annealing algorithm, TSP, CoreData, Networking, iOS
+1. **[📲 Multilayer Perceptron - 42 AI&DATA Specialization](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**
+   - **Description:** Coding my first neural network from scratch to classify breast cancer data to be benign or malignant using backpropagation and [gradient descent](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) based on a real data set provided by the University of Wisconsin.
+   - **Keywords:** Python, pandas, numpy, backpropagation
 
 2. **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
