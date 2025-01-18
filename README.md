@@ -11,29 +11,19 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 
 ## Favorite Projects 🔥
 
-#Machine Learning and Data Science:
+# Machine Learning and Data Science:
 - **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch
 - **[🚒 BerlinerFeuerwehr_DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
 - **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
 
+# C and C++:
+- **[📟 Minishell - 42 Core Corriculum](https://github.com/leonyannick/minishell)**: Self written Shell based on Bash
+- **[🧊 MiniRT - 42 Core Corriculum](https://github.com/dubmix/42-miniRT)**: Simple Raytracer to display 3D objects
+- **[🌐 Webserv - 42 Core Curriculum](https://github.com/mdarbois/42_webserv)**: HTTP1.1 webserver written in C++ and C
 
-
-3. **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**
-   - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
-   - **Keywords:** Django, Usermanagement, Docker, AI opponent, remote tournaments, server-side game, remote authentification, python, JavaScript, HTML
-
-4. **[📟 Minishell - 42 Core Corriculum](https://github.com/leonyannick/minishell)**
-   - **Description:** A group project where we created our own shell by re-implementing the BASH behaviour in C.
-   - **Keywords:** Lexical analysis, parsing, C, child processes, pipes
-
-5. **[🌐 Webserv - 42 Core Curriculum](https://github.com/mdarbois/42_webserv)**
-   - **Description:** A group project where we implemented a HTTP server to serve static and dynamic content and support file up and download.
-   - **Keywords:** Multiplexing with `poll`, C++, C, JavaScript, HTML
-
-6. **[🧊 MiniRT - 42 Core Corriculum](https://github.com/dubmix/42-miniRT)**
-   - **Description:** A group project where we implemented a basic raytracer to display 3D objects applying shadow and lightning techniques.
-   - **Keywords:** Linear Algebra, 3D graphics, C, ray tracing
-
+# Other
+- **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**: Online multiplayer PONG game witch user management in Django, remote realtime gameplay, remote tournaments and intelligent computer opponent
+  
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
