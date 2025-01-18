@@ -11,13 +11,12 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 
 ## Favorite Projects 🔥
 
-1. **[🦾 Multilayer Perceptron - 42 AI&DATA Specialization](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**
-   - **Description:** Coding my first neural network from scratch to classify breast cancer data to be benign or malignant using backpropagation and [gradient descent](https://github.com/alexehrlich/42Rio-AI-ft_linear_regression) based on a real data set provided by the University of Wisconsin.
-   - **Keywords:** Python, pandas, numpy, backpropagation
+#Machine Learning and Data Science:
+- **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch
+- **[🚒 BerlinerFeuerwehr_DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
+- **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
 
-2. **[🚒 BerlinerFeuerwehr_DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**
-   - **Description:** Small project to visiualize mission data of Berliner Feuerwehr on Berlin map.
-   - **Keywords:** Python, pandas, numpy, geopy, geopandas
+
 
 3. **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**
    - **Description:** The final group project of the 42 Core where we created a website to host a realtime multiplayer pong game.
