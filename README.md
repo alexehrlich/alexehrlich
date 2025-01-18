@@ -21,8 +21,8 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 - **[🧊 MiniRT - 42 Core Corriculum](https://github.com/dubmix/42-miniRT)**: Simple Raytracer to display 3D objects
 - **[🌐 Webserv - 42 Core Curriculum](https://github.com/mdarbois/42_webserv)**: HTTP1.1 webserver written in C++ and C
 
-### Other
-- **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**: Online multiplayer PONG game witch user management in Django, remote realtime gameplay, remote tournaments and intelligent computer opponent
+### Other:
+- **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**: Final group project of the 42 core curriculum. An nnline multiplayer PONG game witch user management in Django, remote realtime gameplay, remote tournaments and intelligent computer opponent
   
 
 ## Tech Stack
