@@ -11,17 +11,17 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 
 ## Favorite Projects 🔥
 
-#### Machine Learning and Data Science:
+### Machine Learning and Data Science:
 - **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch
 - **[🚒 BerlinerFeuerwehr_DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
 - **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
 
-# C and C++:
+### C and C++:
 - **[📟 Minishell - 42 Core Corriculum](https://github.com/leonyannick/minishell)**: Self written Shell based on Bash
 - **[🧊 MiniRT - 42 Core Corriculum](https://github.com/dubmix/42-miniRT)**: Simple Raytracer to display 3D objects
 - **[🌐 Webserv - 42 Core Curriculum](https://github.com/mdarbois/42_webserv)**: HTTP1.1 webserver written in C++ and C
 
-# Other
+### Other
 - **[🚀 ft_transcendence - 42 Core Curriculum](https://github.com/Linuswidmer/42_transcendence)**: Online multiplayer PONG game witch user management in Django, remote realtime gameplay, remote tournaments and intelligent computer opponent
   
 
