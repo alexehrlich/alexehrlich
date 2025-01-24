@@ -12,7 +12,7 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 ## Favorite Projects 🔥
 
 ### Machine Learning and Data Science:
-- **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch
+- **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch (Breastcancer classification, MNIST)
 - **[🚒 BerlinerFeuerwehr DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
 - **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
 
