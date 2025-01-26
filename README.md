@@ -7,7 +7,7 @@ My goal is to contribute to projects/products that have a positive impact on soc
 In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
 ## Current Project ⏳
-- Creating a brain computer interface based on electroencephalographic data (EEG data) with the help of machine learning algorithms in python and scikit-learn🧠
+- Stanford CS229 Machine Learning lectures
 
 ## Favorite Projects 🔥
 
