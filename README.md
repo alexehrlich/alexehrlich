@@ -15,6 +15,7 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 - **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch (Breastcancer classification, MNIST)
 - **[🚒 BerlinerFeuerwehr DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
 - **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
+- **[🖼️ Image compression with Kmeans](https://github.com/alexehrlich/Image_compression_kmeans/tree/main/)**: Compressing an image with kmenas clustering from scratch
 
 ### C and C++:
 - **[📟 Minishell](https://github.com/leonyannick/minishell)**: Self written Shell based on Bash
