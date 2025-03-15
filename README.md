@@ -9,6 +9,7 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 ## Current Project ⏳
 - Stanford CS229 Machine Learning lectures
 - 42 "dslr" project to make Logistic Regression from scratch
+- Coding word2Vec from scratch with pytorch
 
 ## Favorite Projects 🔥
 
