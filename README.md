@@ -6,7 +6,8 @@ My goal is to contribute to projects/products that have a positive impact on soc
 
 In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
-## Current Project ⏳
+## Current Project⏳
+- predict football matches of the german bundesliga with scraped data and engineerd features
 - Stanford CS229 Machine Learning lectures
 - 42 "dslr" project to make Logistic Regression from scratch
 - Coding word2Vec from scratch with pytorch
