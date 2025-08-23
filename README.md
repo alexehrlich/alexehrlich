@@ -7,7 +7,6 @@ My goal is to contribute to projects/products that have a positive impact on soc
 In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
 
 ## Current Project⏳
-- predict football matches of the german bundesliga with scraped data and engineerd features
 - Stanford CS229 Machine Learning lectures
 - 42 "dslr" project to make Logistic Regression from scratch
 - Coding word2Vec from scratch with pytorch
@@ -16,6 +15,7 @@ In my spare time you can find me having fun at skatepark 🛹, where I embrace t
 
 ### Machine Learning and Data Science:
 - **[🦾 Multilayer Perceptron](https://github.com/alexehrlich/42Rio-multilayer-perceptron)**: Feed Forward Neural Network coded from scratch (Breastcancer classification, MNIST)
+- **[⚽️ Soccer Match Preditor](https://github.com/alexehrlich/buli_pred)**: Simple containerized web application to show prediction for upcomung bundesliga matches using nginx, fastapi and Docker.
 - **[🛳️ Titanic](https://github.com/alexehrlich/titanic)**: Explore the dataset of the titanic desaster with EDA and different ML-Models to 
 - **[🚒 BerlinerFeuerwehr DataVisualizer](https://github.com/alexehrlich/BerlinerFeuerwehr_DataVisualizer/blob/main)**: Simple vizualization of yearly and regional mission data of Berliner Feuerwehr
 - **[🌸 IRIS](https://github.com/alexehrlich/IRIS)**: Classifying samples of the IRIS data set with pytorch (Neural Net) or scikit-learn(KNearestNeighbor)
