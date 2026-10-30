@@ -1,15 +1,13 @@
-# Hi, I am Alex 🙋🏻
+# Hello
 
-I am a mechatronics engineer with experience in the development and testing of power electronics. Seeking to broaden my expertise, I ventured into software engineering at [42 Berlin](https://42berlin.de). Completing the Core Curriculum was a transformative experience, revealing both the vast knowledge I had gained and the endless horizon of learning still ahead. Embracing this lifelong journey, I am now continuing my studies at 42 Rio in Brazil starting the AI specialization path at [42 Rio de Janeiro, Brazil🇧🇷](https://42.rio).
+Started as a mechatronics engineer, developing and testing power electronics for power tools. At some point I got curious about the software side of things and went to 42 Berlin, later continuing with the AI/data science track at 42 Rio de Janeiro 🇧🇷.
 
-My goal is to contribute to projects/products that have a positive impact on society like environment🌱, education📚, sustainable mobility🚄 or the health sector🩺.
+I like building stuff, especially where engineering and data meet: hardware, sensors, pipelines, models, whatever gets the job done.
 
-In my spare time you can find me having fun at skatepark 🛹, where I embrace the journey of success and failure, and learn valuable life lessons and resilience along the way 💆🏻‍♂️.
+I’d love to work on things that make a positive difference, like climate and environment 🌱, education 📚, sustainable mobility 🚆, or health 🩺.
 
 ## Current Project⏳
-- Stanford CS229 Machine Learning lectures
-- 42 "dslr" project to make Logistic Regression from scratch
-- Coding word2Vec from scratch with pytorch
+- **[🛹 Skateboard trick detection](https://github.com/alexehrlich/trickdetection)**: 3D-printed housing containing an IMU-sensor, which reads movement data during a session to make predictions later 
 
 ## Favorite Projects 🔥
 
